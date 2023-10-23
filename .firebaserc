@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "floristeria-a34f8": {
+      "hosting": {
+        "floristeria": [
+          "floristeria-a34f8"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "floristeria-a34f8"
+  }
+}
